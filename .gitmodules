@@ -1,0 +1,6 @@
+[submodule "third_party/OpenPCDet"]
+	path = third_party/OpenPCDet
+	url = https://github.com/open-mmlab/OpenPCDet.git
+[submodule "third_party/Pseudo_Lidar_V2"]
+	path = third_party/Pseudo_Lidar_V2
+	url = https://github.com/mileyan/Pseudo_Lidar_V2.git
