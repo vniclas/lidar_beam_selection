@@ -1,13 +1,13 @@
-# End-To-End Optimization of LiDAR Beam Configuration
-[**arXiv**](https://arxiv.org/abs/2201.03860) |  [**IEEE Xplore**]()
+# End-to-End Optimization of LiDAR Beam Configuration
+[**arXiv**](https://arxiv.org/abs/2201.03860) |  [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/9681305)
 
 This repository is the official implementation of the paper:
 
-> **End-To-End Optimization of LiDAR Beam Configuration for 3D Object Detection and Localization**
+> **End-to-End Optimization of LiDAR Beam Configuration for 3D Object Detection and Localization**
 >
 > [Niclas Vödisch](https://vniclas.github.io/), [Ozan Unal](https://vision.ee.ethz.ch/people-details.MjA5ODkz.TGlzdC8zMjg5LC0xOTcxNDY1MTc4.html), [Ke Li](https://icu.ee.ethz.ch/people/person-detail.ke-li.html), [Luc Van Gool](https://vision.ee.ethz.ch/people-details.OTAyMzM=.TGlzdC8zMjQ4LC0xOTcxNDY1MTc4.html), and [Dengxin Dai](https://people.ee.ethz.ch/~daid/).
 > 
-> *To appear in RA-L.*
+> *IEEE Robotics and Automation Letters (RA-L)*, vol. 7, no. 2, pp. 2242-2249, April 2022
 
 <p align="center">
   <img src="overview.png" alt="Overview of 3D object detection" width="600" />
@@ -15,7 +15,15 @@ This repository is the official implementation of the paper:
 
 If you find our work useful, please consider citing our paper:
 ```
-to be added after publication
+@ARTICLE{Voedisch_2022_RAL,
+  author={Vödisch, Niclas and Unal, Ozan and Li, Ke and Van Gool, Luc and Dai, Dengxin},
+  journal={IEEE Robotics and Automation Letters},
+  title={End-to-End Optimization of LiDAR Beam Configuration for 3D Object Detection and Localization},
+  year={2022},
+  volume={7},
+  number={2},
+  pages={2242-2249},
+  doi={10.1109/LRA.2022.3142738}}
 ```
 
 ## 📔 Abstract
