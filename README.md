@@ -1,5 +1,5 @@
 # End-to-End Optimization of LiDAR Beam Configuration
-[**arXiv**](https://arxiv.org/abs/2201.03860) |  [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/9681305)
+[**arXiv**](https://arxiv.org/abs/2201.03860) |  [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/9681305) | [**Video**](https://youtu.be/7fl0gLuvhZc)
 
 This repository is the official implementation of the paper:
 
